@@ -1,0 +1,5 @@
+name: GameLoader
+version: 0.1
+main: me.electroid.game.GameLoader
+author: ElectroidFilms
+description: A plugin to manage loading vanilla game to play!
